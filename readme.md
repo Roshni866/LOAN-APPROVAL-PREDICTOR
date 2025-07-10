@@ -45,9 +45,6 @@ It is designed as an end-to-end ML pipeline: data cleaning → preprocessing →
 ## **Results**
  - *Accuracy is ~97% on the test set for RandomForest.
 
-## **Visualizations**
+## **Visulizations**
 - Countplot showing actual vs predicted approvals
- ![Countplot](plot.png)
- <p align="center">
-  <img src="plots/confusion_matrix.png" width="400"/>
-</p>
+![countplot](/plots/plot.png)
